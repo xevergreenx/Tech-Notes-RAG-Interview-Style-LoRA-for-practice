@@ -15,6 +15,8 @@
 
 - Структурированные ответы (кратко → детали → практика)
 
+---
+
 ## Стек
 ```
 LangChain
@@ -23,3 +25,5 @@ Sentence-Transformers (multilingual-e5)
 Transformers + Torch
 Qwen2.5-3B-Instruct
 ```
+
+P.s. (Практика для понимания)
